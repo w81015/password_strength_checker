@@ -1,3 +1,4 @@
+[中文版 Chinese version](README_zh.md)
 
 # Password Strength Checker
 
